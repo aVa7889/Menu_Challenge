@@ -1,4 +1,5 @@
 (base) avalee@Avas-MacBook-Air Menu_Challenge % python3 "Menu_Challenge.py"
+
 Welcome to the variety food truck.
 From which menu would you like to order? 
 1: Snacks
@@ -99,6 +100,7 @@ Sushi                     | $7.49  |   4
 Tea - Green               | $2.49  |   5
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Total cost:  $44.48
+
 (base) avalee@Avas-MacBook-Air Menu_Challenge % 
 
 
