@@ -1,5 +1,110 @@
-# Menu_Challenge
+(base) avalee@Avas-MacBook-Air Menu_Challenge % python3 "Menu_Challenge.py"
+Welcome to the variety food truck.
+From which menu would you like to order? 
+1: Snacks
+2: Meals
+3: Drinks
+4: Dessert
+------------------------------------------
+Type menu number to view or q to quit: 1
+You selected Snacks
+------------------------------------------
+What Snacks item would you like to order?
+Item # | Item name                | Price
+-------|--------------------------|-------
+1      | Cookie                   | $0.99
+2      | Banana                   | $0.69
+3      | Apple                    | $0.49
+4      | Granola bar              | $1.99
+Enter your choices in Snacks: 2
+------------------------------------------
+How many would you like?: 3
+Would you like to keep ordering? (Y)es or (N)o y
+------------------------------------------
+This is what we are preparing for you.
 
+Item name                 | Price  | Quantity
+--------------------------|--------|----------
+Banana                    | $0.69  |   3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From which menu would you like to order? 
+1: Snacks
+2: Meals
+3: Drinks
+4: Dessert
+------------------------------------------
+Type menu number to view or q to quit: 2
+You selected Meals
+------------------------------------------
+What Meals item would you like to order?
+Item # | Item name                | Price
+-------|--------------------------|-------
+1      | Burrito                  | $4.49
+2      | Teriyaki Chicken         | $9.99
+3      | Sushi                    | $7.49
+4      | Pad Thai                 | $6.99
+5      | Pizza - Cheese           | $8.99
+6      | Pizza - Pepperoni        | $10.99
+7      | Pizza - Vegetarian       | $9.99
+8      | Burger - Chicken         | $7.49
+9      | Burger - Beef            | $8.49
+Enter your choices in Meals: 3
+------------------------------------------
+How many would you like?: 4
+Would you like to keep ordering? (Y)es or (N)o y
+------------------------------------------
+This is what we are preparing for you.
+
+Item name                 | Price  | Quantity
+--------------------------|--------|----------
+Banana                    | $0.69  |   3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sushi                     | $7.49  |   4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From which menu would you like to order? 
+1: Snacks
+2: Meals
+3: Drinks
+4: Dessert
+------------------------------------------
+Type menu number to view or q to quit: 3
+You selected Drinks
+------------------------------------------
+What Drinks item would you like to order?
+Item # | Item name                | Price
+-------|--------------------------|-------
+1      | Soda - Small             | $1.99
+2      | Soda - Medium            | $2.49
+3      | Soda - Large             | $2.99
+4      | Tea - Green              | $2.49
+5      | Tea - Thai iced          | $3.99
+6      | Tea - Irish breakfast    | $2.49
+7      | Coffee - Espresso        | $2.99
+8      | Coffee - Flat white      | $2.99
+9      | Coffee - Iced            | $3.49
+Enter your choices in Drinks: 4
+------------------------------------------
+How many would you like?: 5
+Would you like to keep ordering? (Y)es or (N)o n
+Thank you for your order.
+------------------------------------------
+This is what we are preparing for you.
+
+Item name                 | Price  | Quantity
+--------------------------|--------|----------
+Banana                    | $0.69  |   3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sushi                     | $7.49  |   4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tea - Green               | $2.49  |   5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total cost:  $44.48
+(base) avalee@Avas-MacBook-Air Menu_Challenge % 
+
+
+
+
+# Menu_Challenge
 menu = {
     "Snacks": {
         "Cookie": .99,
