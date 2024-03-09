@@ -1,3 +1,6 @@
+
+= Output (the output reads better in edit mode
+
 (base) avalee@Avas-MacBook-Air Menu_Challenge % python3 "Menu_Challenge.py"
 
 Welcome to the variety food truck.
