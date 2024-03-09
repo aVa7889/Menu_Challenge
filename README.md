@@ -1,5 +1,5 @@
 
-"Output (the output reads better in edit mode)"
+#Output (the output reads better in edit mode)
 
 (base) avalee@Avas-MacBook-Air Menu_Challenge % python3 "Menu_Challenge.py"
 
